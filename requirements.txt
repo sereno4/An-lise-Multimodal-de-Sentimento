@@ -1,0 +1,15 @@
+torch
+transformers
+accelerate
+opencv-python-headless
+deepface
+librosa
+soundfile
+moviepy==1.0.3
+imageio==2.31.1
+imageio-ffmpeg
+gradio
+numpy
+scikit-learn
+tensorflow-cpu
+tf-keras
